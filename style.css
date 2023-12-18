@@ -1,0 +1,48 @@
+div.root {
+    background-color: rgb(238, 232, 216);
+    border: 30px solid rgb(224, 224, 224);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: rgb(5, 79, 72);
+    border-radius: 20px;
+}
+
+img.myph {
+    width: 300px;
+    float: right;
+    border-radius: 20px;
+}
+
+div.infor {
+    color: rgb(5, 79, 72);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.facph {
+    background-color: rgb(5, 79, 72);
+    width: 40px;
+    border-radius: 5px;
+}
+
+.twph {
+    width: 40px;
+    background-color: rgb(5, 79, 72);
+    border-radius: 5px;
+}
+
+footer {
+
+    font-size: 20px;
+    margin-top: 30px;
+    color: white;
+    background-color: rgb(5, 79, 72);
+}
+
+div.copy {
+    text-align: center;
+}
